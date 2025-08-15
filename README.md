@@ -11,7 +11,7 @@
  **Main Skill:** C++
  **Projects:**  
   - [Bubble Shooter Game](#)  
-  - Rush Hour (Taxi Game) – coming soon!
+  - Rush Hour (Taxi Game) 
  - **Learning:** AI, Game Development, and more
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/moiz-kh)
 
