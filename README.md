@@ -8,10 +8,10 @@
 
 ###  About Me
  **Currently:** BS in Artificial Intelligence @ FAST University
- **Main Skill:** C++
- **Projects:**  
+- **Main Skill:** C++
+- **Projects:**  
   - [Bubble Shooter Game](#)  
-  - Rush Hour (Taxi Game) 
+  - [Rush Hour (Taxi Game)](https://github.com/M-oiz/Rush-hour-game)
  - **Learning:** AI, Game Development, and more
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/moiz-kh)
 
