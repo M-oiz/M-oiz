@@ -1,5 +1,3 @@
-# MOIZ KHAN
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=2000&color=F7A35C&center=true&vCenter=true&width=600&height=60&lines=WELCOME+TO+MY+WORLD;CODE.+CREATE.+REPEAT.;LOADING+NEW+IDEAS..." />
@@ -8,7 +6,6 @@
 
 ### AI Student | C++ Developer | Game Development Enthusiast
 
-**A curious mind building things one line of code at a time.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-M--oiz-8B7BFF?style=flat-square&logo=github&logoColor=white)](https://github.com/M-oiz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5DADE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiz-kh)
